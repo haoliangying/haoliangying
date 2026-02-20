@@ -1,4 +1,9 @@
-## Hi there 👋
+## Introduction
+
+
+Welcome to my website! 
+
+I'm currently a sophomore of Mathematics and Statistics at Grinnell College.
 
 <!--
 **haoliangying/haoliangying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
